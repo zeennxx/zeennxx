@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3a4a,100:22d3ee&height=200&section=header&text=ZEENN&fontSize=80&fontColor=22d3ee&fontAlignY=38&desc=scripter%20·%20cybersecurity%20enthusiast&descSize=16&descAlignY=60&descColor=94a3b8&animation=fadeIn" />
-
+  <img src="./zeenn-banner.svg" width="100%"/>
 </div>
 
 <div align="center">
