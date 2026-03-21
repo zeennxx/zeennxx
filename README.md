@@ -1,46 +1,46 @@
 <div align="center">
-  <img src="./zeenn-banner.svg" width="100%"/>
+  <!-- Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0d1117,100:22d3ee&text=Zeenn&reversal=false&fontColor=22d3ee&fontSize=60&stroke=22d3ee&strokeWidth=1" width="100%"/>
 </div>
 
 <div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=print(%22Hello+World%2C+I%27m+Zeenn%22);%24+whoami+--+scripter+%7C+cybersec+enthusiast;Running+scripts+so+you+don%27t+have+to....)
-
+  <!-- Typing Animation -->
+  
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=print(%22Hello+World%2C+I'm+Zeenn%22);%24+whoami+--+scripter+%7C+cybersec+enthusiast;Running+scripts+so+you+don't+have+to....)
 </div>
 
 <br/>
 
 ---
 
-### 👤 about me
+## 👤 About Me
+```text
+[Zeenn@cyberlab ~]$ whoami
+Name     : Zeenn
+Location : Jawa Tengah, Indonesia
+Role     : Scripter & Cybersecurity Enthusiast
+Status   : Currently learning & building
+Motto    : "Code silently. Strike precisely."
 
+[Info] I write scripts that automate repetitive tasks.
+[Info] I explore security to understand and protect systems.
 ```
-Name      →  Zeenn
-Location  →  Jawa Tengah, Indonesia
-Language  →  Indonesian · English
-Role      →  Scripter & Cybersecurity Enthusiast
-Status    →  Currently learning & building
-Motto     →  "Code silently. Strike precisely."
-```
-
-I write scripts that automate things most people do manually.
-I explore security because knowing how things break is the first step to building things that don't.
-
 ---
 
-### 🛠️ tech stack
+## 🛠️ Tech Stack
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0a1929)
 ![Bash](https://img.shields.io/badge/-Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25&labelColor=0a1929)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0a1929)
+![Go](https://img.shields.io/badge/-Go-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8&labelColor=0a1929)
+
+**Web / Frontend**
+
 ![HTML](https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0a1929)
 ![CSS](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0a1929)
 ![PHP](https://img.shields.io/badge/-PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=0a1929)
-![Java](https://img.shields.io/badge/-Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00&labelColor=0a1929)
-![Go](https://img.shields.io/badge/-Go-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8&labelColor=0a1929)
-![Rust](https://img.shields.io/badge/-Rust-0d1117?style=for-the-badge&logo=rust&logoColor=CE422B&labelColor=0a1929)
 
 **OS & Dev Tools**
 
@@ -60,56 +60,66 @@ I explore security because knowing how things break is the first step to buildin
 
 ---
 
-### 🎯 focus
+## 🎯 Focus
 
-- 🐍 Python automation · Bash tools · CLI utilities
-- 🔍 Recon · OSINT · Web security basics
-- 🌐 JavaScript · PHP · CSS
-- ⚙️ Go scripting · lightweight tooling
-- 📖 Currently learning → Penetration Testing · Network Security
-- 🤝 Open for → Collab · CTF · Open Source
+> 🐍 Python 🛠️ | Bash Scripts ⚡ | CLI Utilities 💻
+
+> 🔎 Recon & OSINT 🔐 | Web Security Basics 🌐
+
+> 💻 JavaScript | PHP | CSS
+
+> ⚙️ Go Scripting | Lightweight Tools
+
+> 📖 Learning → Penetration Testing · Network Security
+
+> 🤝 Open for → Collab · CTF · Open Source
 
 ---
 
-### 📊 stats
+### ⚡ Coding Stats
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeennxx&theme=github_dark" width="100%"/>
+<!-- Productive Time Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zeennxx&theme=github_dark&utcOffset=7" width="45%"/>
+
+</div>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=zeennxx&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=94a3b8" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeennxx&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=94a3b8" width="48%"/>
+<div align="center">
 
-<br/>
+<!-- Repos per Language -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zeennxx&theme=github_dark" width="30%" style="margin-right:5px;"/>
 
-<img src="https://streak-stats.demolab.com?user=zeennxx&theme=github-dark-blue&hide_border=true&background=0d1117&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=94a3b8&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff" width="60%"/>
+<!-- Most Commit Language -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zeennxx&theme=github_dark" width="30%" style="margin-right:5px;"/>
+
+<!-- Overall GitHub Stats -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zeennxx&theme=github_dark" width="30%"/>
 
 </div>
 
 ---
 
-### 📈 activity
+### 🎵 Now Playing (Live)
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zeennxx&theme=react-dark&hide_border=true&bg_color=0d1117&color=22d3ee&line=22d3ee&point=ffffff&area=true" width="100%"/>
-
+  <a href="https://open.spotify.com/user/31j6tisyfblitj7c5nx3exhby46y?si=7e4a690473604d63">
+    <img src="https://novatorem.bgstatic.vercel.app/api/spotify?background_color=0d1117&border_color=22d3ee" alt="Spotify Now Playing" width="70%"/>
+  </a>
 </div>
 
 ---
 
-### 💬 quote
+## 🎨 Year in Code
 
-> *"The quieter you become, the more you are able to hear."*
-
----
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGVsbG93b3JsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="60%"/>
+</div>
 
 <br/>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:0a3a4a,100:0d1117&height=120&section=footer" />
-
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"/>
 </div>
