@@ -7,17 +7,12 @@
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-
+  
 <div align="center">
   
-  <!-- Typing Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=➜+print(%22Hello+World%2C+I'm+Zeenn%22);➜+whoami+--+scripter+%7C+cybersec+enthusiast;➜+sudo+./run_automation.sh+--stealth;➜+[+]+Exploiting+the+impossible..." alt="Typing SVG" />
-  </a>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=print(%22Hello+World%2C+I'm+Zeenn%22);whoami+--+scripter+%7C+cybersec+enthusiast;Follow+My+Github;[+]+Exploiting+the+impossible..." alt="Typing SVG" />
 </div>
-
-<br/>
 
 
 <!-- About Me -->
