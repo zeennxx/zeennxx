@@ -1,7 +1,6 @@
-<div align="center">
-  <!-- Premium Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a0f1e,100:1e3a8a&text=Zeenn&fontColor=ffffff&fontSize=70&fontAlignY=40&animation=fadeIn&desc=Script%20%7C%20Secure%20%7C%20Repeat&descAlignY=55&descSize=18" width="100%"/>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zeennxx/zeennxx/main/banner.svg" alt="banner" width="100%">
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=zeennxx&style=flat-square&color=38bdf8" alt="Profile Views"/>
 </div>
