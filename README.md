@@ -1,125 +1,111 @@
 <div align="center">
-  <!-- Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0d1117,100:22d3ee&text=Zeenn&reversal=false&fontColor=22d3ee&fontSize=60&stroke=22d3ee&strokeWidth=1" width="100%"/>
+  <!-- Premium Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a0f1e,100:1e3a8a&text=Zeenn&fontColor=ffffff&fontSize=70&fontAlignY=40&animation=fadeIn&desc=Script%20%7C%20Secure%20%7C%20Repeat&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=zeennxx&style=flat-square&color=38bdf8" alt="Profile Views"/>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+
 <div align="center">
-  <!-- Typing Animation -->
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=print(%22Hello+World%2C+I'm+Zeenn%22);%24+whoami+--+scripter+%7C+cybersec+enthusiast;Running+scripts+so+you+don't+have+to....)
-</div>
-
-<br/>
-
----
-
-## 👤 About Me
-```text
-[Zeenn@cyberlab ~]$ whoami
-Name     : Zeenn
-Location : Jawa Tengah, Indonesia
-Role     : Scripter & Cybersecurity Enthusiast
-Status   : Currently learning & building
-Motto    : "Code silently. Strike precisely."
-
-[Info] I write scripts that automate repetitive tasks.
-[Info] I explore security to understand and protect systems.
-```
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0a1929)
-![Bash](https://img.shields.io/badge/-Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25&labelColor=0a1929)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0a1929)
-![Go](https://img.shields.io/badge/-Go-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8&labelColor=0a1929)
-
-**Web / Frontend**
-
-![HTML](https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0a1929)
-![CSS](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0a1929)
-![PHP](https://img.shields.io/badge/-PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=0a1929)
-
-**OS & Dev Tools**
-
-![Windows](https://img.shields.io/badge/-Windows-0d1117?style=for-the-badge&logo=windows&logoColor=0078D6&labelColor=0a1929)
-![Linux](https://img.shields.io/badge/-Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=0a1929)
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=557C94&labelColor=0a1929)
-![VS Code](https://img.shields.io/badge/-VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=0a1929)
-![Git](https://img.shields.io/badge/-Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0a1929)
-![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0a1929)
-
-**Security Tools**
-
-![Wireshark](https://img.shields.io/badge/-Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7&labelColor=0a1929)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=FF6633&labelColor=0a1929)
-![Tor](https://img.shields.io/badge/-Tor-0d1117?style=for-the-badge&logo=torproject&logoColor=7D4698&labelColor=0a1929)
-![SpiderFoot](https://img.shields.io/badge/-SpiderFoot-0d1117?style=for-the-badge&logo=spiderfoot&logoColor=22d3ee&labelColor=0a1929)
-
----
-
-## 🎯 Focus
-
-> 🐍 Python 🛠️ | Bash Scripts ⚡ | CLI Utilities 💻
-
-> 🔎 Recon & OSINT 🔐 | Web Security Basics 🌐
-
-> 💻 JavaScript | PHP | CSS
-
-> ⚙️ Go Scripting | Lightweight Tools
-
-> 📖 Learning → Penetration Testing · Network Security
-
-> 🤝 Open for → Collab · CTF · Open Source
-
----
-
-### ⚡ Coding Stats
-
-<div align="center">
-
-<!-- Productive Time Card -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zeennxx&theme=github_dark&utcOffset=7" width="45%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- Repos per Language -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zeennxx&theme=github_dark" width="30%" style="margin-right:5px;"/>
-
-<!-- Most Commit Language -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zeennxx&theme=github_dark" width="30%" style="margin-right:5px;"/>
-
-<!-- Overall GitHub Stats -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zeennxx&theme=github_dark" width="30%"/>
-
-</div>
-
----
-
-### 🎵 Now Playing (Live)
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31j6tisyfblitj7c5nx3exhby46y?si=7e4a690473604d63">
-    <img src="https://novatorem.bgstatic.vercel.app/api/spotify?background_color=0d1117&border_color=22d3ee" alt="Spotify Now Playing" width="70%"/>
+  <!-- Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=➜+print(%22Hello+World%2C+I'm+Zeenn%22);➜+whoami+--+scripter+%7C+cybersec+enthusiast;➜+sudo+./run_automation.sh+--stealth;➜+[+]+Exploiting+the+impossible..." alt="Typing SVG" />
   </a>
 </div>
 
----
-
-## 🎨 Year in Code
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGVsbG93b3JsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="60%"/>
-</div>
-
 <br/>
 
+
+<!-- About Me -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"/>
+<details open>
+<summary><b>📁 $ cat about_me.md</b></summary>
+<br/>
+
+| USER     | Zeenn                             |
+|----------|----------------------------------|
+| LOCATION | Jawa Tengah, Indonesia           |
+| ROLE     | Scripter & Cybersecurity Enthusiast |
+| STATUS   | {"learning": true, "building": true} |
+| MOTTO    | "Code silently. Strike precisely." |
+
+> Automating complexity, one script at a time.  
+> Breaking things to understand how to fix them.  
+> Current objective: Penetration Testing Mastery.
+
+</details>
 </div>
+
+---
+
+<!-- Tools & Arsenal -->
+
+<div align="center">
+
+## 🛠️ <b>Arsenal & Toolchain</b>
+
+🖥️ <b>Core Languages</b><br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white\&labelColor=0a0f1e)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge\&logo=gnubash\&logoColor=white\&labelColor=0a0f1e)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black\&labelColor=0a0f1e)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white\&labelColor=0a0f1e)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white\&labelColor=0a0f1e)
+
+🌐 <b>Web Frontend</b><br/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white\&labelColor=0a0f1e)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white\&labelColor=0a0f1e)
+
+⚙️ <b>Environment & Tools</b><br/>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black\&labelColor=0a0f1e)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge\&logo=kalilinux\&logoColor=white\&labelColor=0a0f1e)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white\&labelColor=0a0f1e)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white\&labelColor=0a0f1e)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white\&labelColor=0a0f1e)
+
+🔒 <b>Security Arsenal</b><br/>
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white\&labelColor=0a0f1e)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge\&logo=burpsuite\&logoColor=white\&labelColor=0a0f1e)
+![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge\&logo=torproject\&logoColor=white\&labelColor=0a0f1e)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge\&logo=metasploit\&logoColor=white\&labelColor=0a0f1e)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge\&logo=nmap\&logoColor=white\&labelColor=0a0f1e)
+
+</div>
+
+<!-- GitHub Stats -->
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=zeennxx&show_icons=true&count_private=true&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&bg_color=0a0f1e" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zeennxx&hide_border=true&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=c9d1d9&dates=c9d1d9&background=0a0f1e" width="49%"/>
+</div>
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeennxx&theme=github_dark" width="98%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zeennxx&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zeennxx&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zeennxx&theme=github_dark" width="32%"/>
+</div>
+
+<!-- Spotify Now Playing -->
+
+<div align="center">
+  
+## 🎵 <b>Live Feed: Vibes & Code</b><br/>
+<a href="https://open.spotify.com/user/31j6tisyfblitj7c5nx3exhby46y?si=7e4a690473604d63">
+<img src="https://novatorem.bgstatic.vercel.app/api/spotify?background_color=0a0f1e&border_color=38BDF8" alt="Spotify Now Playing" width="70%"/>
+</a>
+</div>
+
+<!-- GIF -->
+
+<div align="center">
+<br/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGVsbG93b3JsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="60%"/>
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"/>
+<br/>
